@@ -7,17 +7,22 @@ Timely delivery is crucial in software project management because it ensures sta
 Effective cost control contributes to software project success by preventing financial overruns, ensuring resource efficiency, and maximizing return on investment. Strategies to prevent budget overruns include accurate cost estimation, regular budget reviews, risk assessment, and strict scope management.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Agile and Waterfall methodologies share similarities in that both provide structured approaches to software development, aim for high-quality deliverables, and involve planning and documentation. Both methodologies seek to manage risks and ensure that the final product meets user requirements.
+
 Their differences include Agile’s iterative, flexible approach with continuous feedback, whereas Waterfall follows a linear, structured process with clearly defined phases. Agile adapts well to changing requirements, allowing teams to adjust throughout development, while Waterfall requires thorough initial planning and is less adaptable to changes once development has started. Agile encourages frequent collaboration, while Waterfall follows a more sequential, milestone-driven approach.
+
 Agile Advantages:
 Quick response to changes.
 Regular customer feedback.
 Improved team collaboration.
+
 Disadvantages:
 Less predictability.
 Requires significant customer involvement.
+
 Waterfall Advantages:
 Clear structure and documentation.
 Easy to manage due to its rigidity.
+
 Disadvantages:
 Difficult to accommodate changes.
 Testing occurs late in the process.
